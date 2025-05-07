@@ -1,0 +1,27 @@
+FRAUD:
+fraud_Rutherford-Mertz
+grocery_pos
+281.06
+35.994600
+-81.726600
+36.430124
+-81.179483
+1
+2
+1
+Male
+4613314721966
+LEGITIMATE:
+fraud_Rippin, Kub and Mann	
+misc_net
+4.97
+36.0788	
+-81.1781		
+36.011293	
+-82.048315
+0
+1
+1
+Female
+4613314721966
+	
